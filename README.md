@@ -13,3 +13,8 @@ Lesson 2:
 Lesson 3:
 - input()
 - Data type conversion
+
+Lesson 4:
+- Strings
+- String slices
+- Some methods for strings
