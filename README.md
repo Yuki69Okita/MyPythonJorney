@@ -18,3 +18,7 @@ Lesson 4:
 - Strings
 - String slices
 - Some methods for strings
+
+Lesson 5:
+- Operators
+- Operator precedence
