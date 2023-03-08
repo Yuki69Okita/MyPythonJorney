@@ -22,3 +22,8 @@ Lesson 4:
 Lesson 5:
 - Operators
 - Operator precedence
+
+Lesson 6:
+- Modules
+- Math methods/functions
+- If statement
