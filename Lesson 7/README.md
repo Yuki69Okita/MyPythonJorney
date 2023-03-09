@@ -27,11 +27,11 @@ Loops:
 	- else - When the loop is finished it will execute else
 -----------
 
-- Nested loops
+- Nested loops:
 	- The "inner loop" will be executed one time for each iteration of the "outer loop"
 ------------
 
-- Infinite loops
+- Infinite loops:
 	- A continuous repetitive conditional loop that gets executed until an external factor
 -------------
 
