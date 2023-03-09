@@ -20,8 +20,10 @@ String slices
 
 Formatting string
 -----------------
-- Concatenation string - concatenating strings end-to-end to create a new string ".." + aa + ".."
-- Formatted string-  f".. {..} ... {..}"
+- Concatenation string - concatenating strings end-to-end to create a new string 
+    - ".." + aa + ".."
+- Formatted string - expressions inside a string by prefixing the string with "f" or "F" and writing expressions as {..}
+    -  f".. {..} ... {..}"
 -------------------------
 
 
@@ -32,4 +34,4 @@ Some methonds, func and expression
 - .lower() - it creates new string with lowercase
 - .find() - finding an symbol's index (case-sensitive)
 - replace() - it creates new string where you can replace symbols
-- boolean expression - true or false
+- boolean expression - True or False
