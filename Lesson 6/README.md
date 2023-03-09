@@ -1,29 +1,41 @@
 Module
 ------
 - A set of methods/functions ready to be used somewhere else
+-------------------
 
-- To create one:
+To create one:
+-------------
 1. New file with extension .py
 2. Type whatever function or variable you need
+---------------
 
-- To use one:
+To use one:
+-----------
 1. Type import + name of the file you created (somewhere in the first lines)
 2. For func - type name of the module. and func name (example: mymodule.greeting("Jhon"))
 3. For variable - name of the module. and name of the variable.. (example: a = nymodule.person1["age"])
+----------------
 
-- Rename the module:
+Rename the module:
+-------------------
 1. Add "as" and name in the line with the import (example: import mymodule as mm)
 2. You ca use it everywhere in the file as mm
+-----------------------
 
-- Check what modules you have:
+Check what modules you have:
+------------------------------
 1. With help('modules')
+----------------------------------------
 
-- Check what func or variable have in the modul
+Check what func or variable have in the module:
+--------------------------------------------------
 1. With dir() (example: print(dir(mymodule))
+-----------------------------------------------------
 
-- You can import something from the modul without everything in it
+Import something from the module without everything in it:
+----------------------------------------------------------------
 1. Add from name of the module import name of the variable of function
-------------------------------------
+---------------------------------------------------------------------------------
 
 Some funcutions/methods
 -----------------------
@@ -35,11 +47,11 @@ Some funcutions/methods
 - math.sin() - returns the sine of x radians
 - math.degrees() - onverts angle x from radians to degrees
 - math.pi - the mathematical constant π = 3.141592…
-------------------------------------
+--------------------------------------------
 
 
 If statement
-------------
+---------------------
 - If – used to determine whether a block will be used or not
 - elif (else if) – used after if, to give a second (or more) condition/s that the code can pass through
 - else - used after the last "elif" or after "if" (if there is no elif), because if none of the conditions is true - to execute this
