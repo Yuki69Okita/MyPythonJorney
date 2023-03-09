@@ -1,5 +1,5 @@
 # My Python Jorney
---------------------------
+
 - I will try adding my new knowledge every time I do something (Of course there are more notes besides these).
 --------------------------
 - Lesson 1:
