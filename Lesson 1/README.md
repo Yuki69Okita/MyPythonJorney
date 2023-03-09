@@ -9,7 +9,7 @@ Making a new project
 
 Console
 -------
-- Shift+F10 is pressed to compile ("translate it so he can understand") the code
+- When Shift+F10 is pressed the console begin to compile ("translate it so he can understand") the code and executes it
 - He reads it line by line and performs them
 - It is case-sensitive
 -----------------------------------------
