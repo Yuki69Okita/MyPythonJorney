@@ -2,24 +2,30 @@ Module
 ------
 - A set of methods/functions ready to be used somewhere else
 
+
 - To create one:
 1. New file with extension .py
 2. Type whatever function or variable you need
+
 
 - To use one:
 1. Type import + name of the file you created (somewhere in the first lines)
 2. For func - type name of the module. and func name (example: mymodule.greeting("Jhon"))
 3. For variable - name of the module. and name of the variable.. (example: a = nymodule.person1["age"])
 
+
 - Rename the module:
 1. Add "as" and name in the line with the import (example: import mymodule as mm)
 2. You ca use it everywhere in the file as mm
 
+
 - Check what modules you have:
 1. With help('modules')
 
+
 - Check what func or variable have in the modul
 1. With dir() (example: print(dir(mymodule))
+
 
 - You can import something from the modul without everything in it
 1. Add from name of the module import name of the variable of function
