@@ -1,6 +1,6 @@
 # My Python Jorney
 I will try adding my new knowledge every time I do something (Of course there are more notes besides these).
-
+--------------------------
 - Lesson 1:
   - New project
     - Making project
@@ -10,8 +10,7 @@ I will try adding my new knowledge every time I do something (Of course there ar
     - Single line
     - Multi line
     - Docstring
-
-
+--------------------------
 - Lesson 2:
   - Variables
     - What is variable
@@ -25,14 +24,14 @@ I will try adding my new knowledge every time I do something (Of course there ar
     - Set
     - Bytes
     - None
-    
+--------------------------
 - Lesson 3:
   - input()
     - User input
   - Data type conversion
     - Implicit type conversion
     - Explicit type conversion
-    
+--------------------------
 - Lesson 4:
   - Strings
     - What is string
@@ -44,7 +43,7 @@ I will try adding my new knowledge every time I do something (Of course there ar
     - Concatenation string
     - Formatted string
   - Some func/methods for strings
-
+--------------------------
 - Lesson 5:
   - Operators
     - What are operators
@@ -57,7 +56,7 @@ I will try adding my new knowledge every time I do something (Of course there ar
     - Bitwise Operators
   - Operator precedence
     - Order in which operations are performed
-
+--------------------------
 - Lesson 6:
   - Modules
     - What is module
