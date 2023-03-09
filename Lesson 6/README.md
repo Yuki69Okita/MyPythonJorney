@@ -58,3 +58,23 @@ If statement
 - they can be writen shorter 
 - Nested ifs - if in the if (if the main if is not true then the second even is not checked)
 - pass - you can type it in the if (cannot be empty) for future code
+--------------------------------------------
+
+
+Exercises
+----------
+- Exercise 1 - Discount:
+   - A house is selling for 1 million dollars
+   - If buyer has good credit - 20% discount
+   - If not - 10% discount
+   - Print the result
+   
+- Exercise 2 - Username length:
+  - If the username is less than 3 - print "Name must be at least 3 characters"
+  - If the username is more than 50 - print "Name must be maximum of 50 characters"
+  - Otherwise - print "Name looks good!"
+  
+- Exercise 3 - Weight convertor:
+  - You need to get user input for weight
+  - After that ask for L - lbs and K - kg (not case-sensitive)
+  - Print the result after conversion
