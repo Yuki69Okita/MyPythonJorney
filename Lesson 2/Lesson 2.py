@@ -14,9 +14,8 @@ d, e, f = 1, 2, "Jhon"
 
 # Numeric Types -
 num1 = 20  # int
-num2 = 387263783827938729739273897283798273987238972389728973982738973289739827387293  # long
-num3 = 20.5  # float
-num4 = 45.j  # complex
+num2 = 20.5  # float
+num3 = 45.j  # complex
 
 # Text Type -
 txt1 = "Hello"  # string ("..", '..' or even """ .."" for quote)
