@@ -13,8 +13,6 @@ Built-in data types
 1. Numbers:
     - int 
       - Signed integers
-    - long 
-      - Long integers (they can also be represented in octal and hexadecimal number system)
     - float
       - Floating point number
     - complex 
