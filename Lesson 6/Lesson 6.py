@@ -63,7 +63,7 @@ else:
     percent = house_price / 100 * 10
 
 house_price -= percent
-print(f"The house is selling for {house_price} (with discount {percent}) because your credit was {credit}.")
+print(f"The house is selling for {house_price} dollars (with discount {percent}) because your credit was {credit}.")
 
 
 # ex 2 - Username length
