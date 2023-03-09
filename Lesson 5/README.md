@@ -1,6 +1,6 @@
 Operators
 ---------
-– Used to perform operations on variables and values:
+- Used to perform operations on variables and values:
 
 1. Arithmeric Operators:
     - "+"	  - Addition		
