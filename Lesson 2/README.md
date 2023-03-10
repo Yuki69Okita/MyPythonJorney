@@ -5,7 +5,7 @@ Variable
 - The name must not start with a number
 - The name should be as short and descriptive as possible
 - A value can be written to several variables at the same time
----------------------------------------
+----------------------------------------
 
 
 Built-in data types
