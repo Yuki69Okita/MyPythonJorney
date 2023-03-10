@@ -9,7 +9,7 @@ Lists:
 - Lists in list, just like matrix
 - Indexing is the same but with two [outer list][inner list]
 ------------
-Methods for lists:
+Methods for list:
 --------------------
 - append() - Adds an element at the end of the list
 - insert() - Adds an element at the specified position (index, new element)
