@@ -74,3 +74,25 @@
     - Short version
     - Nested ifs
     - pass
+--------------------------
+- Lesson 7:
+  - while loop
+    - What is while loop
+    - break
+    - continue
+    - else
+  - for loop
+    - What is for loop
+    - break
+    - continue
+    - else
+  - Nested loops
+  - Infinite loops
+  --------------------------
+- Lesson 8:
+  - Lists
+    - What is list
+  - 2D lists
+    - What is 2D list
+  - Methods for list
+  
