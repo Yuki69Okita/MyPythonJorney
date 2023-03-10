@@ -39,11 +39,12 @@ print("Complete!")
 # ex 1 - Guessing game
 win_number = random.randint(1, 11)
 num_of_tries = 0
+max_tries = 3
 
 print("Winning number is from 1 to 10.")
 print("You have three guesses.")
 
-while num_of_tries < 3:
+while num_of_tries < max_tries:
     print(f"Number of guesses: {num_of_tries}")
     num_of_tries += 1
     guessed_num = int(input("Guess: "))
@@ -51,9 +52,9 @@ while num_of_tries < 3:
     if guessed_num == win_number:
         print("Congrats! You guessed it!")
         break
-    elif guessed_num > win_number and num_of_tries < 3:
+    elif guessed_num > win_number and num_of_tries < max_tries:
         print("Down.")
-    elif guessed_num < win_number and num_of_tries < 3:
+    elif guessed_num < win_number and num_of_tries < max_tries:
         print("Up.")
 
 else:
@@ -167,6 +168,10 @@ for item in items_and_prices:
     final_price += items_and_prices[item]
 
 print(f"Total price: {final_price}")
+
+# ex 3 - But better (I guess)
+for item, price in items_and_prices.items():
+    final_price += price
 
 # ex 4 - Print "F" with list
 numbers = [5, 2, 5, 2, 2]
