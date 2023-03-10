@@ -35,7 +35,7 @@ Loops:
 	- A continuous repetitive conditional loop that gets executed until an external factor
 -------------
 
-Exercices:
+Exercises:
 ----------
 
 - Exercice 1 - Guessing game (With while)
@@ -45,20 +45,20 @@ Exercices:
 	- Add a hint ("up" or "down")
 
 
-- Exercice 2 - Car game (With while)
+- Exercise 2 - Car game (With while)
 	- Four commands - help, start, stop and quit (not case-sensitive)
 	- If the input is not one of the four commands - print "I don't understand"
 	- If the car is started - you can't start it again
 	- If the car is stopped - you can't stop it again
 
 
-- Exercice 3 - Shopping cart (With for)
+- Exercise 3 - Shopping cart (With for)
 	- Create some prices
 	- Calculate it
 	- Print the result
  
 
-- Exercice 4 - Print F with list (With for)
+- Exercise 4 - Print F with list (With for)
 	- Use nested for loops
 	- Use x
 	- Use [5, 2, 5, 2, 2]
