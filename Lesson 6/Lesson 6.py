@@ -65,6 +65,19 @@ else:
 house_price -= percent
 print(f"The house is selling for {house_price} dollars (with discount {percent}) because your credit was {credit}.")
 
+# ex 1 - But better (I guess)
+house_price = 1000000
+is_credit_good = False
+credit = "bad"
+
+percent = house_price / 100 * 10
+if is_credit_good:
+    percent = house_price / 100 * 20
+    credit = "good"
+
+house_price -= percent
+print(f"The house is selling for {house_price} dollars (with discount {percent}) because your credit was {credit}.")
+
 
 # ex 2 - Username length
 username = input("Username: ")
