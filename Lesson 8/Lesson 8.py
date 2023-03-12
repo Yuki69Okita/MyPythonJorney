@@ -73,3 +73,25 @@ for item in numbers_list2:
         duplicates.append(item)
 
 print(duplicates)
+
+# Tuples - Used to store multiple items in a single variable
+# Ordered, unchangeable, and allow duplicate values
+tuple1 = ("apple", "banana", "cherry", "apple", "cherry")
+print(tuple1)
+
+# You can create tuple with one item
+tuple2 = ("apple",)
+print(type(tuple2))
+
+# NOT a tuple
+tuple2 = ("apple")
+print(type(tuple2))
+
+# Unpacking - Extract the values back into variables
+fruits = ("apple", "banana", "cherry")
+
+green, yellow, red = fruits  # The number of variables must match the number of values
+print(green, yellow, red)
+
+(a, *b, c) = fruits  # Gets rest of the values if variables and values does not match
+print(a, b, c)
