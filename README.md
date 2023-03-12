@@ -95,4 +95,9 @@
   - 2D lists
     - What is 2D list
   - Methods for list
+  - Tuples
+    - What is tuple
+  - Unpacking
+    - What is unpacking
+    - "*"
   
