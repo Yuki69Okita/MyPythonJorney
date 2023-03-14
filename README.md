@@ -100,4 +100,11 @@
   - Unpacking
     - What is unpacking
     - "*"
-  
+  --------------------------
+- Lesson 9:
+  - Dictionaries
+    - What is dictionary
+    - How to get keys and values
+    - How to edit and add values
+    - How to delete
+    
