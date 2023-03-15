@@ -107,4 +107,16 @@
     - How to get keys and values
     - How to edit and add values
     - How to delete
-    
+  --------------------------
+- Lesson 10:
+  - Function
+    - What is function
+  - Parameters
+  - Arguments
+  - "*"  
+  - "**"
+  - Keyword Arguments
+  - return
+  - pass
+  - Recursion
+    - What is recursion
