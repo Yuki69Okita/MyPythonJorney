@@ -56,7 +56,7 @@ fruits = ["apple", "banana", "cherry"]
 favorite_fruits(fruits)
 
 
-# return - Stops the function and returns a value
+# return - Returns a value to the function
 def calculate(x):
     return 5 * x
 
@@ -64,7 +64,7 @@ def calculate(x):
 print(calculate(3))
 
 
-# pass - Avoid getting error
+# pass - Avoid getting error by empty function
 def pass_func():
     pass
 
