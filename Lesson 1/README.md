@@ -1,5 +1,5 @@
 
-Making a new project
+Making a new project:
 ---------------------
 - Pressing the "New project" button
 - Place it in a wished location
@@ -7,7 +7,7 @@ Making a new project
 -----------------------------------------
 
 
-Console
+Console:
 -------
 - When Shift+F10 is pressed the console begin to compile ("translate it so he can understand") the code and executes it
 - He reads it line by line and performs them
@@ -15,7 +15,7 @@ Console
 -----------------------------------------
 
 
-Comments
+Comments:
 --------
 - something like code notes that helps the developer
   - Single line - # ..
