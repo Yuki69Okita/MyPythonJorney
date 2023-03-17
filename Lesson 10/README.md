@@ -3,6 +3,19 @@ Function:
 - A block of code which only runs when it is called
 - You can pass data, known as parameters, into a function
 - It can return data as a result
+---------
+To create function:
+--------
+1. def func_name(): ...
+2. Two empty lines before and after a function
+--------
+To call one:
+---------
+1. func_name()
+	- After defining a function
+------
+Parameters and Arguments:
+------------
 - Parameter:
   - The variable listed inside the parentheses in the function definition
 - Argument:
@@ -13,11 +26,14 @@ Function:
 - "**" 
   - The function will receive a dictionary of arguments
 - Keyword Arguments: 
-  - Sends arguments with the key = value syntax
+  - Sends arguments with the "key=value" syntax
 - You can send any data types of argument to a function 
   - It will be treated as the same data type inside the function
-- return - Stops the function and returns a value
-- pass - Avoid getting error
+-------
+Statements:
+---------
+- return - Returns a value to the function
+- pass - Avoid getting error by empty code
 ------
 Recursion:
 ------
