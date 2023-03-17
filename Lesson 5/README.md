@@ -1,4 +1,4 @@
-Operators
+Operators:
 ---------
 - Used to perform operations on variables and values:
 
@@ -70,7 +70,7 @@ Operators
 ---------------------------------
 
 
-Operator Precedence
+Operator Precedence:
 -------------------
 - Describes the order in which operations are performed:
 
