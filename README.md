@@ -6,15 +6,17 @@
   - New project
     - Making project
   - Console
+    - What is a console  
     - Executing some print() commands to see what happens
   - Comments
+    - What is a comment
     - Single line
     - Multi line
     - Docstring
 --------------------------
 - Lesson 2:
   - Variables
-    - What is variable
+    - What is a variable
     - Naming a variable
   - Data types (Built-in)
     - Numbers
@@ -35,7 +37,7 @@
 --------------------------
 - Lesson 4:
   - Strings
-    - What is string
+    - What is a string
     - How to represent string
   - String slices
     - Indexing
@@ -60,7 +62,7 @@
 --------------------------
 - Lesson 6:
   - Modules
-    - What is module
+    - What is a module
     - Creating module
     - Using module
     - Renaming module
@@ -68,21 +70,21 @@
     - Import something from the module without everything in it
   - Some math func/methods
   - If statement
-    - if
+    - What is an if statement
     - elif
     - else
-    - Short version
+    - Short versions
     - Nested ifs
     - pass
 --------------------------
 - Lesson 7:
   - while loop
-    - What is while loop
+    - What is a while loop
     - break
     - continue
     - else
   - for loop
-    - What is for loop
+    - What is a for loop
     - break
     - continue
     - else
@@ -91,32 +93,39 @@
   --------------------------
 - Lesson 8:
   - Lists
-    - What is list
+    - What is a list
   - 2D lists
-    - What is 2D list
+    - What is a 2D list
   - Methods for list
   - Tuples
-    - What is tuple
+    - What is a tuple
   - Unpacking
     - What is unpacking
     - "*"
   --------------------------
 - Lesson 9:
   - Dictionaries
-    - What is dictionary
+    - What is a dictionary
     - How to get keys and values
     - How to edit and add values
     - How to delete
   --------------------------
 - Lesson 10:
   - Function
-    - What is function
-  - Parameters
-  - Arguments
-  - "*"  
-  - "**"
-  - Keyword Arguments
+    - What is a function
+    - Create function
+    - Call function
+  - Parameters and arguments
+    - "*"  
+    - "**"
+    - Keyword Arguments
   - return
   - pass
   - Recursion
-    - What is recursion
+    - What is a recursion function
+  - Pass by
+    - value
+    - reference
+  - Function Object
+  - Lambda expression
+    - What is an anonymouse function
