@@ -7,13 +7,13 @@ The “input()” function:
 -----------------------------------------------------
 
 
-Implicit Type Conversion
+Implicit Type Conversion:
 ------------------------
 - The Python interpreter automatically converts one data type to another without any user involvement
 ------------------------------------------------------
 
 
-Explicit Type Conversion
+Explicit Type Conversion:
 ------------------------
 - Тhe data type is manually changed by the user as per their requirement
 - With explicit type conversion, there is a risk of data loss since we are forcing an expression to be changed in some specific data type
