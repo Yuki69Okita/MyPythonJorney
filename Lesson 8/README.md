@@ -25,14 +25,14 @@ Methods for list:
 - extend() - Add the elements of a list (or any iterable), to the end of the current list
 -------------
 
-Tuples
+Tuples:
 ------
 - Used to store multiple items in a single variable
 - Ordered, unchangeable, and allow duplicate values
 - You can create tuple with one item
 -----------
 
-Unpacking
+Unpacking:
 ---------
 - Extract the values back into variables
 - The number of variables must match the number of values
