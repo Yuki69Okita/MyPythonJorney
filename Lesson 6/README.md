@@ -1,4 +1,4 @@
-Module
+Module:
 ------
 - A set of methods/functions ready to be used somewhere else
 -------------------
@@ -37,7 +37,7 @@ Import something from the module without everything in it:
 1. Add from name of the module import name of the variable of function
 ---------------------------------------------------------------------------------
 
-Some funcutions/methods
+Some funcutions/methods:
 -----------------------
 - round() - rounds the number up
 - abs() - always returns positive number
@@ -50,7 +50,7 @@ Some funcutions/methods
 --------------------------------------------
 
 
-If statement
+If statement:
 ---------------------
 - If – used to determine whether a block will be used or not
 - elif (else if) – used after if, to give a second (or more) condition/s that the code can pass through
@@ -61,7 +61,7 @@ If statement
 --------------------------------------------
 
 
-Exercises
+Exercises:
 ----------
 - Exercise 1 - Discount:
    - A house is selling for 1 million dollars
