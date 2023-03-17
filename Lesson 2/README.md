@@ -1,4 +1,4 @@
-Variable
+Variable:
 --------
 - A container for storing data values
 - The name can contain the characters “A-z”, “0-9” and “_”
@@ -8,7 +8,7 @@ Variable
 ----------------------------------------
 
 
-Built-in data types
+Built-in data types:
 -------------------
 1. Numbers:
     - int 
