@@ -1,11 +1,11 @@
-Strings
+String:
 -------
 - А set of characters represented in pairs of single or double quotes (can be triple, for example, to quote something)
 - It's going to be an error if there are 2 pairs of quotes with the same type in one string
 -------------------------
 
 
-String slices
+String slices:
 -------------
 - Each character in a string has an index that can be accessed
 - The index starts at 0
@@ -18,7 +18,7 @@ String slices
 
 
 
-Formatting string
+Formatting string:
 -----------------
 - Concatenation string - concatenating strings end-to-end to create a new string 
     - ".." + aa + ".."
@@ -27,7 +27,7 @@ Formatting string
 -------------------------
 
 
-Some methonds, func and expression
+Some methonds, func and expression:
 ----------------------------------
 - len() - shows how many characters there are in a string
 - .upper() - it creates new string with uppercase
