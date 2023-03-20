@@ -1,4 +1,4 @@
-Exceptions:
+Exception:
 --------
 - When the event occurs during program execution, it disrupts the normal flow of instructions
 - When an error occurs 
