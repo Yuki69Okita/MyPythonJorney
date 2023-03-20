@@ -129,3 +129,17 @@
   - Function Object
   - Lambda expression
     - What is an anonymouse function
+ --------------------------
+- Lesson 11:
+  - Exception
+    - What is an exception
+    - try 
+    - except 
+    - else 
+    - finally 
+    - raise 
+  - Array
+    - What is an array
+    - Similarities between list and array
+    - Differences between list and array
+    - Advantages
