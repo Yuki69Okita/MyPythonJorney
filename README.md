@@ -143,3 +143,11 @@
     - Similarities between list and array
     - Differences between list and array
     - Advantages
+ --------------------------
+- Lesson 12:
+  - Class
+    - What is a class
+  - Constructor
+  - pass
+  - Inheritance
+ 
