@@ -150,4 +150,8 @@
   - Constructor
   - pass
   - Inheritance
- 
+ --------------------------
+- Lesson 13:
+  - File Handling 
+    - What is file handling
+  - Modes
